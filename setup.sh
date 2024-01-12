@@ -37,5 +37,4 @@ alias edita='nano ~/.aliases.zsh'
 # Add a line to source the new configuration in your .zshrc
 echo 'source ~/.aliases.zsh' >> ~/.zshrc
 
-# Reload zsh
 source ~/.zshrc
